@@ -1,0 +1,5 @@
+.browser {
+  -webkit-transform: scale(0.83, 0.83);
+  -moz-transform: scale(0.83, 0.83);
+  transform: scale(0.83, 0.83)
+}
